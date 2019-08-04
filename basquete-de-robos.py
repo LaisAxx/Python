@@ -1,9 +1,9 @@
 #http://olimpiada.ic.unicamp.br/pratique/pj/2018/f1/basquete/resultado/#
 #Lais Alves#
 
-# criei uma variavel com nomeclatura snake_case, usada no Python#
+# criei uma variavel com nomeclatura snake_case#
 distancia_str = input()
-# os valores na função input são do tipo string então é necessario converter para o tipo inteiro com a função int() #
+# os parametros na função input são convertidos para o tipo string então é necessario converter para o tipo inteiro com a função int() #
 D = int(distancia_str)
 #Condição que compara o valor digitado pelo usuario se D precisa se maior ou igual a zero e menor ou igual a 800 #
 if(D>=0 and D<=800):
