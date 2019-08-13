@@ -1,2 +1,2 @@
 # Python
-Problemas de Lógica de Programação em Python
+Problemas da Olimpiada de informática em Python
